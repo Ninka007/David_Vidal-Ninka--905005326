@@ -10,8 +10,9 @@
 <img width="652" height="748" alt="Screenshot home page-10-24 125841" src="https://github.com/user-attachments/assets/96591f3e-2740-492c-bc8f-9535270347e9" />
 
 ## Player page - sketch and wireframe 
+![player page](https://github.com/user-attachments/assets/1876cb5a-77b2-4f19-af7c-1b818eda13d7)
 
-![player page](https://github.com/user-attachments/assets/c18ff676-2bc4-48c0-931e-7a6dbba
+
 
 
 <img width="655" height="677" alt="Screenshot player  page -10-24 125829" src="https://github.com/user-attachments/assets/d3781dc4-45bf-4c0b-b694-d41ab399fa35" />
